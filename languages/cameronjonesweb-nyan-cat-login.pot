@@ -1,0 +1,39 @@
+# Copyright (C) 2019 Cameron Jones
+# This file is distributed under the same license as the Nyan Cat Login package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nyan Cat Login 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/cameronjonesweb-nyan-cat-login\n"
+"POT-Creation-Date: 2019-01-21 14:10:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: cameronjonesweb-nyan-cat-login.php:56
+msgid "Nyan Cat!"
+msgstr ""
+
+#: cameronjonesweb-nyan-cat-login.php:67
+msgid "Nyan!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Nyan Cat Login"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://cameronjonesweb.com.au"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Customizes the login page with Nyan Cat"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cameron Jones"
+msgstr ""

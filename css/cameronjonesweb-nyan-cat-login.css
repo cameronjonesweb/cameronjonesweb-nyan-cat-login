@@ -1,0 +1,14 @@
+.login h1 a {
+	background-image: url( ../img/nyancat.gif );
+	background-size: contain;
+	width: 200px;
+	height: 200px;
+	background-color: #0E4572;
+	border-radius: 50%;
+	overflow: hidden;
+	display: block;
+}
+
+.login #nyan-player {
+	display: none;
+}
